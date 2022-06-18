@@ -43,5 +43,8 @@ rain-retro-modern-dark/xfwm4/title-1-active.xpm: invert/title-1-active.xpm darka
 %-4x/xfwm4/title-1-active.xpm: %/xfwm4/title-1-active.xpm
 	./x.sh $* 4
 
+install:
+	cp -R rain-retro-modern* ~/.local/share/themes/
+
 clean:
 	rm -rf invert rain-retro-modern-dark rain-retro-modern-*x
