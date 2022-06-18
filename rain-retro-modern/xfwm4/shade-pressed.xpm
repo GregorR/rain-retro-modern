@@ -1,5 +1,5 @@
 /* XPM */
-static char * hide_pressed_xpm[] = {
+static char * shade_pressed_xpm[] = {
 "17 22 59 1",
 " 	c None",
 ".	c #CECECE",
@@ -71,7 +71,7 @@ static char * hide_pressed_xpm[] = {
 "..+@_:<[}|123@#..",
 "..+@@@@@@@@@@@#..",
 "..+@4567/890a@#..",
-"..+@@@@@@@@@@@#..",
+"..+@4567/890a@#..",
 "..+@bcdefghij@#..",
 "..+@kcdllmnop@#..",
 "..+@qrrrrrrst@#..",

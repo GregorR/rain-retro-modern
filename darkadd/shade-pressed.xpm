@@ -1,5 +1,5 @@
 /* XPM */
-static char * close_inactive_xpm[] = {
+static char * shade_pressed_xpm[] = {
 "17 22 2 1",
 " 	c None",
 ".	c #212121",
@@ -12,7 +12,7 @@ static char * close_inactive_xpm[] = {
 "   .         .   ",
 "   .         .   ",
 "   .         .   ",
-"   .         .   ",
+"   ...........   ",
 "   .         .   ",
 "   .         .   ",
 "   .         .   ",
