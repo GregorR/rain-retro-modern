@@ -1,6 +1,9 @@
 /* XPM */
-static char * left_inactive_xpm[] = {
-"6 1 2 1",
-" 	c None",
-".	c #525252",
-".    ."};
+static char *left_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"6 1 2 1 ",
+"  c black",
+". c None",
+/* pixels */
+" .... "
+};

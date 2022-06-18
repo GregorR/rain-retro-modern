@@ -1,12 +1,15 @@
 /* XPM */
-static char * bottom_inactive_xpm[] = {
-"1 7 2 1",
-" 	c None",
-".	c #525252",
-".",
-" ",
-" ",
-" ",
+static char *bottom_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"1 7 2 1 ",
+"  c black",
+". c None",
+/* pixels */
 " ",
 ".",
-"."};
+".",
+".",
+".",
+" ",
+" "
+};
