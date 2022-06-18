@@ -1,0 +1,7 @@
+active_text_color=#202020
+inactive_text_color=#949494
+button_offset=0
+button_spacing=0
+button_layout=C|MH
+full_width_title=false
+show_app_icon=false
